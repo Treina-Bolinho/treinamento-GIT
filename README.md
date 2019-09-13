@@ -1,6 +1,4 @@
-
-# Treinamento GIT e GIT workflow
-
+# Treinamento GIT, gitwork, e boas praticas
 ## 1. Descrição:
 
 O objetivo desse treinamento é fazer o participante entender o funcionamento 
