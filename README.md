@@ -1,4 +1,4 @@
-# Treinamento Python
+# Treinamento GIT
 
 ## 1. Descrição:
 
